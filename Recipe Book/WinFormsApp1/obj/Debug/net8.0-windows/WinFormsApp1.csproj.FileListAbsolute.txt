@@ -1,0 +1,42 @@
+C:\Important\II\Tema1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Important\II\Tema1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Important\II\Tema1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Important\II\Tema1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Important\II\Tema1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Important\II\Tema1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Important\II\Tema1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Important\II\Tema1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Important\II\Tema1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Important\II\Tema1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Important\II\Tema1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Important\II\Tema1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Important\II\Tema1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Important\II\Tema1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Important\II\Tema1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Important\II\Tema1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Important\II\Tema1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Important\II\Tema1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.MainForm.resources
+C:\Important\II\Tema1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.ForgotPasswordForm.resources
+C:\Important\II\Tema1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.ChangePasswordForm.resources
+C:\Important\II\Tema1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.CreateRecipeForm.resources
+C:\Important\II\Recipe Book\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Important\II\Recipe Book\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Important\II\Recipe Book\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Important\II\Recipe Book\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Important\II\Recipe Book\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Important\II\Recipe Book\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.ChangePasswordForm.resources
+C:\Important\II\Recipe Book\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.CreateRecipeForm.resources
+C:\Important\II\Recipe Book\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.ForgotPasswordForm.resources
+C:\Important\II\Recipe Book\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Important\II\Recipe Book\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.MainForm.resources
+C:\Important\II\Recipe Book\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Important\II\Recipe Book\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Important\II\Recipe Book\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Important\II\Recipe Book\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Important\II\Recipe Book\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Important\II\Recipe Book\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Important\II\Recipe Book\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Important\II\Recipe Book\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Important\II\Recipe Book\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Important\II\Recipe Book\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Important\II\Recipe Book\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
